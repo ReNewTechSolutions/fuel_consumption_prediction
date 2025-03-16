@@ -1,4 +1,4 @@
-# fuel_consumption_prediction
+# fuel_consumption_prediction simple linear regression model
 🚗 Fuel Consumption &amp; CO2 Emission Prediction using Linear Regression. Using real-world data, this project trains a machine-learning model to predict CO2 emissions based on fuel consumption.
 
 📌 Features:
